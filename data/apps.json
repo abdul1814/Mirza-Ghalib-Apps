@@ -4,5 +4,11 @@
     "name": "Mirza Ghalib Status",
     "image": "mirza_ghalib_status.png",
     "apk": "apk/mirza-ghalib-status.apk"
+  },
+  {
+    "id": "app2",
+    "name": "Mirza Ghalib Status",
+    "image": "mirza_ghalib_status.png",
+    "apk": "apk/mirza-ghalib-status.apk"
   }
 ]
